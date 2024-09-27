@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Arthur Vasconcelos do Rego Barros
+* Email (@ccc): arthur.vasconcelos.rego.barros@ccc.ufcg.edu.br
+* Matrícula: 123110824
 
 # Roteiro: isAVL
 
